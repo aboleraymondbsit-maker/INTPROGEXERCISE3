@@ -226,7 +226,7 @@ if (isset($_GET['member'])) {
         <?php else: ?>
 
             <p class="message">
-               gay
+              Please select a team member.
             </p>
 
         <?php endif; ?>
